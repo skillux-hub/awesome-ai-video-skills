@@ -9,7 +9,7 @@ Remotion. Every entry below shows a **real output produced by the skill
 itself** — storyboard animatics carry the actual prompts burned in, and the
 Remotion entries are genuine end-to-end renders.
 
-▶ Watch all ten films in the **[Skillux Video Gallery](https://skillux.dev/video-gallery)**.
+▶ Watch all twenty films in the **[Skillux Video Gallery](https://skillux.dev/video-gallery)**.
 
 ---
 
@@ -71,7 +71,63 @@ rendered from live skillux.dev catalog data (262 skills by category).
 
 ---
 
-## All ten skills
+## Showcase — Batch 02 (brand systems & store conversion)
+
+### Brand Kit Video — your tokens, locked into every shot
+
+![Brand Kit Video sample](assets/brand-kit-video.gif)
+
+A brand kit (palette, fonts, layout, motion) becomes a token block repeated
+verbatim in every shot prompt, plus a 6-point compliance check. The sample is
+the skill's storyboard animatic with Skillux's own tokens — ink #EDEBE4, lime
+#C8F169, dark #0E0F13 — locked into a Halmiva candle ad.
+
+**[Get the free skill →](https://skillux.dev/skills/brand-kit-video)**
+
+### Catalog to Video — a CSV in, one clip per product out
+
+![Catalog to Video sample](assets/catalog-to-video.gif)
+
+A Remotion batch renderer: each CSV row (photo, name, price, one selling
+point) becomes the same 9:16 clip. The sample is a genuine render from a real
+3-row Halmiva catalog — candle set $23, ornaments $21, climbing Santa $21.
+
+**[Get the free skill →](https://skillux.dev/skills/catalog-to-video)**
+
+### Price Drop Video — sale prices, announced automatically
+
+![Price Drop Video sample](assets/price-drop-video.gif)
+
+Feed the template a was/now pair and it renders the announcement: old price
+struck through, new price big, one CTA. Sample: Halmiva's candle set,
+$33 → $23, at the store's live prices.
+
+**[Get the free skill →](https://skillux.dev/skills/price-drop-video)**
+
+### Weekly Report Video — your week in numbers, rendered
+
+![Weekly Report Video sample](assets/weekly-report-video.gif)
+
+A metrics JSON becomes a 30-second KPI video — counters, bars, one takeaway,
+and the source of every number kept on screen. The sample uses real Skillux
+catalog numbers: video skills 10 → 20, total skills 272 → 282.
+
+**[Get the free skill →](https://skillux.dev/skills/weekly-report-video)**
+
+### Review to Video — verbatim, or not at all
+
+![Review to Video sample](assets/review-to-video.gif)
+
+One verified review becomes an animated quote-card video — the customer's
+exact words, stars as earned, nothing invented. The sample runs the
+template's no-review branch: Skillux opened reviews the same day and had no
+real review to quote yet, so the card stays empty, on screen.
+
+**[Get the free skill →](https://skillux.dev/skills/review-to-video)**
+
+---
+
+## All twenty skills
 
 | Skill | What it does | Get it |
 |---|---|---|
@@ -85,6 +141,16 @@ rendered from live skillux.dev catalog data (262 skills by category).
 | Hook & Storyboard | 3 hooks + storyboard + animatic before you produce | [skillux.dev](https://skillux.dev/skills/hook-and-storyboard) |
 | Script to Video | Scripts → captions, B-roll cues, teleprompter, edit list | [skillux.dev](https://skillux.dev/skills/script-to-video) |
 | Shorts Script Writer | Long content → 60-second retention beat-map scripts | [skillux.dev](https://skillux.dev/skills/shorts-script-writer) |
+| Brand Kit Video | Brand tokens locked into every shot prompt + compliance check | [skillux.dev](https://skillux.dev/skills/brand-kit-video) |
+| Storefront Hero Video | Seamless homepage hero loops matched to your storefront | [skillux.dev](https://skillux.dev/skills/storefront-hero-video) |
+| Unboxing Video | The 5-shot unboxing as a product-page conversion asset | [skillux.dev](https://skillux.dev/skills/unboxing-video) |
+| Catalog to Video | CSV catalog → one rendered clip per product (Remotion) | [skillux.dev](https://skillux.dev/skills/catalog-to-video) |
+| Price Drop Video | Was/now price pairs → rendered sale announcements | [skillux.dev](https://skillux.dev/skills/price-drop-video) |
+| Weekly Report Video | Metrics JSON → 30-second KPI report video, sources on screen | [skillux.dev](https://skillux.dev/skills/weekly-report-video) |
+| Review to Video | Verified reviews → quote-card videos, verbatim or not at all | [skillux.dev](https://skillux.dev/skills/review-to-video) |
+| Launch Teaser Script | Launch teasers scripted + animatic before a frame is shot | [skillux.dev](https://skillux.dev/skills/launch-teaser-script) |
+| How-To Script | Help docs → 60-second timed how-to video scripts | [skillux.dev](https://skillux.dev/skills/how-to-script) |
+| Voiceover & Dub Script | Directed voice + EN/ES caption plans for one ad, two languages | [skillux.dev](https://skillux.dev/skills/voiceover-dub-script) |
 
 ## Install
 
