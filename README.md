@@ -169,7 +169,7 @@ in every pack.
 ## Why this exists
 
 [Skillux](https://skillux.dev) publishes design and production skills for AI
-coding agents. This repository collects the first video batch — made with the
+coding agents. This repository collects the video batches — made with the
 same rule the skills teach: show the finished thing, not a description of it.
 The samples were produced with real store products from
 [Halmiva](https://halmiva.com) and live catalog data from skillux.dev; where a
