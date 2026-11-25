@@ -9,7 +9,7 @@ Remotion. Every entry below shows a **real output produced by the skill
 itself** — storyboard animatics carry the actual prompts burned in, and the
 Remotion entries are genuine end-to-end renders.
 
-▶ Watch all twenty films in the **[Skillux Video Gallery](https://skillux.dev/video-gallery)**.
+▶ Watch all thirty films in the **[Skillux Video Gallery](https://skillux.dev/video-gallery)**.
 
 ---
 
@@ -127,7 +127,65 @@ real review to quote yet, so the card stays empty, on screen.
 
 ---
 
-## All twenty skills
+## Showcase — Batch 03 (new verticals & ecommerce scenes)
+
+### Beauty Routine Video — a routine, locked to the brand
+
+![Beauty Routine Video sample](assets/beauty-routine-video.gif)
+
+A three-step beauty routine — cleanse, serum, glow — directed shot by shot,
+with the brand's type, palette and layout locked into every prompt. The sample
+is the skill's storyboard animatic, scripted from a generic beauty brief.
+
+**[Get the free skill →](https://skillux.dev/skills/beauty-routine-video)**
+
+### Gift Guide Video — three gifts, one card each
+
+![Gift Guide Video sample](assets/gift-guide-video.gif)
+
+A gift list becomes a guided video: one card per product — photo, name, price,
+one reason to give it. The sample is a genuine Remotion render for three real
+Halmiva gifts with live prices checked 2026-11-25: candle set $23, ornaments
+$21, stocking $10.
+
+**[Get the free skill →](https://skillux.dev/skills/gift-guide-video)**
+
+### Sale Countdown Video — a deadline that ticks
+
+![Sale Countdown Video sample](assets/sale-countdown-video.gif)
+
+A sale deadline becomes a ticking clip: days, hours, minutes, seconds on
+screen, old price struck through, new price big. The sample is a genuine
+Remotion render for a real price drop — Halmiva's candle set, $33 → $23 —
+counting down to a sample end date of Dec 25.
+
+**[Get the free skill →](https://skillux.dev/skills/sale-countdown-video)**
+
+### Livestream Clip Cutter — the hour, in three highlights
+
+![Livestream Clip Cutter sample](assets/livestream-clip-cutter.gif)
+
+A long livestream becomes three vertical highlight clips: timestamp chip,
+product shot, one subtitle line per card. The sample is a genuine Remotion
+render built from a fictional sample stream brief — no real streamer, no real
+stream data.
+
+**[Get the free skill →](https://skillux.dev/skills/livestream-clip-cutter)**
+
+### Before & After Video — proof without a fake photo pair
+
+![Before & After Video sample](assets/before-after-video.gif)
+
+A split-screen wipe from a labelled illustrated "before" panel to the real
+product photo — the honest way to do before/after with one photograph. The
+sample is a genuine Remotion render, built from the composition inside the
+pack.
+
+**[Get the free skill →](https://skillux.dev/skills/before-after-video)**
+
+---
+
+## All thirty skills
 
 | Skill | What it does | Get it |
 |---|---|---|
@@ -151,6 +209,16 @@ real review to quote yet, so the card stays empty, on screen.
 | Launch Teaser Script | Launch teasers scripted + animatic before a frame is shot | [skillux.dev](https://skillux.dev/skills/launch-teaser-script) |
 | How-To Script | Help docs → 60-second timed how-to video scripts | [skillux.dev](https://skillux.dev/skills/how-to-script) |
 | Voiceover & Dub Script | Directed voice + EN/ES caption plans for one ad, two languages | [skillux.dev](https://skillux.dev/skills/voiceover-dub-script) |
+| Beauty Routine Video | 3-step beauty routine, brand-locked shot by shot | [skillux.dev](https://skillux.dev/skills/beauty-routine-video) |
+| Pet Product Video | 5-shot pet product ad, hook to CTA | [skillux.dev](https://skillux.dev/skills/pet-product-video) |
+| Food Recipe Reel | Recipes → 20-second vertical Reels, one step per shot | [skillux.dev](https://skillux.dev/skills/food-recipe-reel) |
+| Livestream Clip Cutter | Long streams → 3 captioned vertical highlight clips (Remotion) | [skillux.dev](https://skillux.dev/skills/livestream-clip-cutter) |
+| Sale Countdown Video | Was/now prices + end date → ticking countdown clips (Remotion) | [skillux.dev](https://skillux.dev/skills/sale-countdown-video) |
+| Before & After Video | Illustrated before → real product photo wipe (Remotion) | [skillux.dev](https://skillux.dev/skills/before-after-video) |
+| Gift Guide Video | Gift lists → one guided video card per gift (Remotion) | [skillux.dev](https://skillux.dev/skills/gift-guide-video) |
+| YouTube Long-Form Script | Topics → beat-mapped 8–12 minute scripts | [skillux.dev](https://skillux.dev/skills/youtube-longform-script) |
+| Founder Story Script | Products → founder stories written from verifiable facts only | [skillux.dev](https://skillux.dev/skills/founder-story-script) |
+| Ad Hook Test Script | One ad → 3 hook variants + A/B kill/scale plan | [skillux.dev](https://skillux.dev/skills/ad-hook-test-script) |
 
 ## Install
 
@@ -174,7 +242,8 @@ same rule the skills teach: show the finished thing, not a description of it.
 The samples were produced with real store products from
 [Halmiva](https://halmiva.com) and live catalog data from skillux.dev; where a
 film is a storyboard animatic rather than a final AI render, it says so on the
-film itself.
+film itself. Where a sample uses a generic brief instead of a real product
+photo — the beauty, pet and food entries in batch 03 — the skill page says so.
 
 ## License
 
