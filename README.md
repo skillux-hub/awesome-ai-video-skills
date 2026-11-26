@@ -9,7 +9,7 @@ Remotion. Every entry below shows a **real output produced by the skill
 itself** — storyboard animatics carry the actual prompts burned in, and the
 Remotion entries are genuine end-to-end renders.
 
-▶ Watch all thirty films in the **[Skillux Video Gallery](https://skillux.dev/video-gallery)**.
+▶ Watch all forty films in the **[Skillux Video Gallery](https://skillux.dev/video-gallery)**.
 
 ---
 
@@ -185,7 +185,65 @@ pack.
 
 ---
 
-## All thirty skills
+## Showcase — Batch 04 (more shelves & new workflows)
+
+### Fashion Lookbook Video — three looks, one collection
+
+![Fashion Lookbook Video sample](assets/fashion-lookbook-video.gif)
+
+A three-look fashion brief — day, evening, accessories — directed shot by shot,
+with the brand's type, palette and framing locked into every prompt. The sample
+is the skill's storyboard animatic, scripted from a generic fashion brief.
+
+**[Get the free skill →](https://skillux.dev/skills/fashion-lookbook-video)**
+
+### Podcast to Video — audio you recorded, video you can post
+
+![Podcast to Video sample](assets/podcast-to-video.gif)
+
+A podcast episode becomes a captioned vertical video: waveform, one caption line
+at a time, progress bar. The sample is a genuine Remotion render — the waveform
+is a labelled sample waveform and the three caption lines are an original
+sample script on design systems.
+
+**[Get the free skill →](https://skillux.dev/skills/podcast-to-video)**
+
+### Comparison Video — two products, one honest verdict
+
+![Comparison Video sample](assets/comparison-video.gif)
+
+Two products side by side — photo, price, two reasons each — then a verdict card
+that says who each one is for. The sample is a genuine Remotion render for two
+real Halmiva gifts with live prices checked 2026-11-26: candle set $23, velvet
+balls $21.
+
+**[Get the free skill →](https://skillux.dev/skills/comparison-video)**
+
+### Bundle Deal Video — three gifts, one total
+
+![Bundle Deal Video sample](assets/bundle-deal-video.gif)
+
+A bundle list becomes a deal video: one card per product, then a total card. The
+sample is a genuine Remotion render for three real Halmiva gifts with live prices
+checked 2026-11-26 — candle $23, ornaments $21, stocking $10 — and the total is
+the sum, $54. No invented discount.
+
+**[Get the free skill →](https://skillux.dev/skills/bundle-deal-video)**
+
+### Product Tour Video — four stops, thirty seconds
+
+![Product Tour Video sample](assets/product-tour-video.gif)
+
+A collection, toured: one stop per product — number, name, one line, price — with
+a progress bar. The sample is a genuine Remotion render through Halmiva's
+Christmas collection with live prices checked 2026-11-26: candle $23, velvet
+balls $21, climbing Santa $21, stocking $10.
+
+**[Get the free skill →](https://skillux.dev/skills/product-tour-video)**
+
+---
+
+## All forty skills
 
 | Skill | What it does | Get it |
 |---|---|---|
@@ -219,6 +277,16 @@ pack.
 | YouTube Long-Form Script | Topics → beat-mapped 8–12 minute scripts | [skillux.dev](https://skillux.dev/skills/youtube-longform-script) |
 | Founder Story Script | Products → founder stories written from verifiable facts only | [skillux.dev](https://skillux.dev/skills/founder-story-script) |
 | Ad Hook Test Script | One ad → 3 hook variants + A/B kill/scale plan | [skillux.dev](https://skillux.dev/skills/ad-hook-test-script) |
+| Fashion Lookbook Video | 3-look fashion brief, brand-locked shot by shot | [skillux.dev](https://skillux.dev/skills/fashion-lookbook-video) |
+| Home Decor Video | Room brief → 20-second palette-locked decor film | [skillux.dev](https://skillux.dev/skills/home-decor-video) |
+| Tech Gadget Video | Gadget brief → 20-second demo, job on screen | [skillux.dev](https://skillux.dev/skills/tech-gadget-video) |
+| Podcast to Video | Episodes → captioned audiogram videos (Remotion) | [skillux.dev](https://skillux.dev/skills/podcast-to-video) |
+| Comparison Video | Two products → side-by-side comparison + verdict (Remotion) | [skillux.dev](https://skillux.dev/skills/comparison-video) |
+| Bundle Deal Video | Bundle list → deal video, total is the sum (Remotion) | [skillux.dev](https://skillux.dev/skills/bundle-deal-video) |
+| Product Tour Video | Collection → 30-second guided tour, one stop per product (Remotion) | [skillux.dev](https://skillux.dev/skills/product-tour-video) |
+| Testimonial Script | Customers → interview scripts that get quotable words | [skillux.dev](https://skillux.dev/skills/testimonial-script) |
+| Webinar Teaser Script | Live sessions → 20-second teaser scripts, hook to CTA | [skillux.dev](https://skillux.dev/skills/webinar-teaser-script) |
+| Email Video Script | Launches → email + matching 30-second video script | [skillux.dev](https://skillux.dev/skills/email-video-script) |
 
 ## Install
 
@@ -243,7 +311,8 @@ The samples were produced with real store products from
 [Halmiva](https://halmiva.com) and live catalog data from skillux.dev; where a
 film is a storyboard animatic rather than a final AI render, it says so on the
 film itself. Where a sample uses a generic brief instead of a real product
-photo — the beauty, pet and food entries in batch 03 — the skill page says so.
+photo — the beauty, pet and food entries in batch 03, the fashion, home and
+gadget entries in batch 04 — the skill page says so.
 
 ## License
 
