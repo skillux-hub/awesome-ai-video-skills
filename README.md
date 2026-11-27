@@ -9,7 +9,7 @@ Remotion. Every entry below shows a **real output produced by the skill
 itself** — storyboard animatics carry the actual prompts burned in, and the
 Remotion entries are genuine end-to-end renders.
 
-▶ Watch all forty films in the **[Skillux Video Gallery](https://skillux.dev/video-gallery)**.
+▶ Watch all fifty films in the **[Skillux Video Gallery](https://skillux.dev/video-gallery)**.
 
 ---
 
@@ -243,7 +243,52 @@ balls $21, climbing Santa $21, stocking $10.
 
 ---
 
-## All forty skills
+
+## Showcase — Batch 05 (fitness, travel, kids & new workflows)
+
+### Fitness Workout Video — one move per shot, rest on screen
+
+![Fitness Workout Video sample](assets/fitness-workout-video.gif)
+
+A home workout routine in four shots — warm-up, strength, stretch, CTA — with the coaching line and the rest timer written into every shot. The sample is the skill's storyboard animatic, scripted from a generic fitness brief.
+
+**[Get the free skill →](https://skillux.dev/skills/fitness-workout-video)**
+
+### Multilingual Caption Video — one line, three languages
+
+![Multilingual Caption Video sample](assets/multilingual-caption-video.gif)
+
+One caption line rendered in English, Spanish and Portuguese — same timing, same type, one script. The sample is a genuine Remotion render of an original line written for this render, with its Spanish and Portuguese translations.
+
+**[Get the free skill →](https://skillux.dev/skills/multilingual-caption-video)**
+
+### Fitness Challenge Video — seven days, one streak
+
+![Fitness Challenge Video sample](assets/fitness-challenge-video.gif)
+
+A 7-day challenge tracker: day cards, check-in bars, one streak card. The sample is a genuine Remotion render running on sample config numbers — every number labelled as sample config, the streak labelled a sample streak.
+
+**[Get the free skill →](https://skillux.dev/skills/fitness-challenge-video)**
+
+### Local Service Video — your café, in thirty seconds
+
+![Local Service Video sample](assets/local-service-video.gif)
+
+A local business introduced in three cards — hours, house special, address. The sample is a genuine Remotion render running on blank slots, so the template ships ready for a real business and never invents one.
+
+**[Get the free skill →](https://skillux.dev/skills/local-service-video)**
+
+### Quote Card Video — three quotes, three layouts
+
+![Quote Card Video sample](assets/quote-card-video.gif)
+
+Three original quotes, three layouts: centered, split with a giant quote mark, kinetic line by line. The sample is a genuine Remotion render — no borrowed lines, no fake attribution.
+
+**[Get the free skill →](https://skillux.dev/skills/quote-card-video)**
+
+---
+
+## All fifty skills
 
 | Skill | What it does | Get it |
 |---|---|---|
@@ -287,6 +332,16 @@ balls $21, climbing Santa $21, stocking $10.
 | Testimonial Script | Customers → interview scripts that get quotable words | [skillux.dev](https://skillux.dev/skills/testimonial-script) |
 | Webinar Teaser Script | Live sessions → 20-second teaser scripts, hook to CTA | [skillux.dev](https://skillux.dev/skills/webinar-teaser-script) |
 | Email Video Script | Launches → email + matching 30-second video script | [skillux.dev](https://skillux.dev/skills/email-video-script) |
+| Fitness Workout Video | Home workout brief → 20-second follow-along routine, rest timer on screen | [skillux.dev](https://skillux.dev/skills/fitness-workout-video) |
+| Travel Vlog Video | Weekend brief → 20-second travel vlog, one hour per shot | [skillux.dev](https://skillux.dev/skills/travel-vlog-video) |
+| Kids Learning Video | Lesson brief → 20-second kids' learning video, one idea per shot | [skillux.dev](https://skillux.dev/skills/kids-learning-video) |
+| Multilingual Caption Video | One line → EN + ES + PT caption video, same timing (Remotion) | [skillux.dev](https://skillux.dev/skills/multilingual-caption-video) |
+| Fitness Challenge Video | 7-day plan → challenge tracker video, streak card (Remotion) | [skillux.dev](https://skillux.dev/skills/fitness-challenge-video) |
+| Local Service Video | Business details → 30-second local intro, slots left blank (Remotion) | [skillux.dev](https://skillux.dev/skills/local-service-video) |
+| Quote Card Video | Three quotes → quote-card carousel, three layouts (Remotion) | [skillux.dev](https://skillux.dev/skills/quote-card-video) |
+| Course Lesson Script | Course topics → single-lesson scripts, hook to CTA | [skillux.dev](https://skillux.dev/skills/course-lesson-script) |
+| Travel Guide Script | Weekend trips → guide scripts, one fact per shot | [skillux.dev](https://skillux.dev/skills/travel-guide-script) |
+| Creator Collab Script | Brand deals → honest collab scripts, brand slot left blank | [skillux.dev](https://skillux.dev/skills/creator-collab-script) |
 
 ## Install
 
